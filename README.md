@@ -1,1 +1,1 @@
-# youtube-shorts-videos
+# canal-shorts-videos
